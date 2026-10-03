@@ -1,0 +1,51 @@
+role,interest,skill,importance
+Full Stack Developer,Web Development,HTML,1
+Full Stack Developer,Web Development,CSS,1
+Full Stack Developer,Web Development,JavaScript,1
+Full Stack Developer,Web Development,React,1
+Full Stack Developer,Web Development,Node.js,1
+Full Stack Developer,Web Development,Git,1
+Full Stack Developer,Web Development,REST APIs,1
+Full Stack Developer,Web Development,SQL,1
+Software Development Engineer,Software Development,Java,1
+Software Development Engineer,Software Development,C++,1
+Software Development Engineer,Software Development,Python,1
+Software Development Engineer,Software Development,DSA,1
+Software Development Engineer,Software Development,OOP,1
+Software Development Engineer,Software Development,Git,1
+Software Development Engineer,Software Development,Problem solving,1
+Software Development Engineer,Software Development,REST APIs,1
+Data Analyst,Data Science,Python,1
+Data Analyst,Data Science,SQL,1
+Data Analyst,Data Science,Excel,1
+Data Analyst,Data Science,Statistics,1
+Data Analyst,Data Science,Data Visualization,1
+Data Analyst,Data Science,Pandas,1
+Data Scientist,Artificial Intelligence / Machine Learning,Python,1
+Data Scientist,Artificial Intelligence / Machine Learning,Machine Learning,1
+Data Scientist,Artificial Intelligence / Machine Learning,Statistics,1
+Data Scientist,Artificial Intelligence / Machine Learning,SQL,1
+Data Scientist,Artificial Intelligence / Machine Learning,Pandas,1
+Data Scientist,Artificial Intelligence / Machine Learning,NumPy,1
+Data Scientist,Artificial Intelligence / Machine Learning,Scikit-learn,1
+Cybersecurity Analyst,Cybersecurity,Linux,1
+Cybersecurity Analyst,Cybersecurity,Networking,1
+Cybersecurity Analyst,Cybersecurity,Python,1
+Cybersecurity Analyst,Cybersecurity,Cryptography basics,1
+Cybersecurity Analyst,Cybersecurity,Git,1
+Cloud / DevOps Engineer,Cloud Computing,AWS,1
+Cloud / DevOps Engineer,Cloud Computing,Docker,1
+Cloud / DevOps Engineer,Cloud Computing,Linux,1
+Cloud / DevOps Engineer,Cloud Computing,Git,1
+Cloud / DevOps Engineer,Cloud Computing,CI/CD basics,1
+Cloud / DevOps Engineer,Cloud Computing,Networking,1
+Mobile App Developer,Mobile App Development,Java,1
+Mobile App Developer,Mobile App Development,Kotlin,1
+Mobile App Developer,Mobile App Development,REST APIs,1
+Mobile App Developer,Mobile App Development,Git,1
+Mobile App Developer,Mobile App Development,UI basics,1
+UI/UX Designer,UI/UX Design,Figma,1
+UI/UX Designer,UI/UX Design,Wireframing,1
+UI/UX Designer,UI/UX Design,User research,1
+UI/UX Designer,UI/UX Design,HTML,1
+UI/UX Designer,UI/UX Design,CSS,1
