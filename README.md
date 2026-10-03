@@ -16,7 +16,7 @@ A student should be able to answer three questions from one place:
 2. **What am I missing for the internship I want?**
 3. **What should I do next?**
 
-The product loop is:
+The product loop is
 
 ```text
 Career Goal
